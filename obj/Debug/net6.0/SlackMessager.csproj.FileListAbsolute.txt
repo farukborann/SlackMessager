@@ -1,0 +1,17 @@
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\bin\Debug\net6.0\SlackMessager.exe
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\bin\Debug\net6.0\SlackMessager.deps.json
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\bin\Debug\net6.0\SlackMessager.runtimeconfig.json
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\bin\Debug\net6.0\SlackMessager.dll
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\bin\Debug\net6.0\SlackMessager.pdb
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.csproj.AssemblyReference.cache
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.AssemblyInfoInputs.cache
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.AssemblyInfo.cs
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.csproj.CoreCompileInputs.cache
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.dll
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\refint\SlackMessager.dll
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.pdb
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.genruntimeconfig.cache
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\ref\SlackMessager.dll
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\farukborann\Desktop\Workspace\SlackMessager\SlackMessager\obj\Debug\net6.0\SlackMessager.csproj.CopyComplete
